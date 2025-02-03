@@ -32,7 +32,7 @@ go build -o goShare main.go
 ```
 This will create the goShare executable in the current directory.
 
-### Usage
+## Usage
 Once the program is built, you can use it from the command line.
 
 ### Upload a file
