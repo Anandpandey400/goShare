@@ -1,4 +1,8 @@
-# goShare
+# <center>File Share (fshare)</center>
+
+<p align="center">
+    <img width="560" src="./demo.gif" alt="Demo GIF" />
+</p>
 
 goShare is a Go-based command-line utility that allows you to:  - Upload files to [https://0x0.st](https://0x0.st)
 
