@@ -76,13 +76,13 @@ https://0x0.st/abc123
 https://0x0.st/xyz456
 ```
 
-### Contributing
+## Contributing
 If you'd like to contribute to this project, feel free to fork it, make changes, and create a pull request. Any contributions are welcome!
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgements
+## Acknowledgements
 https://0x0.st for the file hosting service.
 Go Programming Language for providing an easy way to write cross-platform applications.
 schollz/progressbar for the progress bar library.
